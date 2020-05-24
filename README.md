@@ -12,3 +12,6 @@ code
  ![Plot Statistic](https://github.com/StalkerSanya/Project-Curiosity-of-Robots/blob/master/xdpole/figure_2.png)
  
  How we can see from plot above, it is not enough to set 1 maxsteps and also i case 20 maxteps our reward until not so big. So we need more time to train and set maxsteps minimum 100, I think.
+ 
+ - Link on video result of behavior of robot for train process with seed 13:
+ https://youtu.be/TfvOKwE6UmU
